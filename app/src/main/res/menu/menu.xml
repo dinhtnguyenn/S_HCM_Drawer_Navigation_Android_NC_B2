@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/fragment_account"
+        android:title="Fragment My Account" />
+
+    <item
+        android:id="@+id/fragment_setting"
+        android:title="Fragment Settings" />
+
+    <item
+        android:id="@+id/activity_info"
+        android:title="Info" />
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout" />
+
+</menu>
